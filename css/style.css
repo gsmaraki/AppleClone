@@ -1,3 +1,31 @@
+
+iphonePro-11{
+  background-image: url("/images/home/iphone11-pro-bg.jpg");
+  height: 580px;
+  background-size: cover;
+  background-position:center;
+    
+}
+
+.iphonePro-11 ul li a:hover{
+  color: white;
+}
+
+.iphone-11{
+  background-image: url("/images/home/iphone11-bg.jpg");
+  height: 580px;
+  background-size: cover;
+  background-position: center;
+}
+
+.leftside{
+  background-image: url("/images/home/watch-series-5.jpg");
+    
+}
+
+
+
+
 /* Footer Styling */
 .footer-wrapper {
   background-color: #f5f5f7;
